@@ -1,0 +1,11 @@
+confidential	sentiment^confidential
+classified	sentiment^confidential^classified
+hush-hush	sentiment^confidential^hush-hush
+private	sentiment^confidential^private
+restricted	sentiment^confidential^restricted
+secret	sentiment^confidential^secret
+protected	sentiment^confidential^protected
+privileged	sentiment^confidential^privileged
+privacy	sentiment^confidential^privacy
+permission	sentiment^confidential^permission
+prohibited	sentiment^confidential^prohibited

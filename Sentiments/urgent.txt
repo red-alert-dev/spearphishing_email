@@ -1,0 +1,12 @@
+urgent	sentiment^urgent
+critical	sentiment^urgent^critical
+immediate	sentiment^urgent^immediate
+necessary	sentiment^urgent^necessary
+important	sentiment^urgent^important
+essential	sentiment^urgent^essential
+deadline	sentiment^urgent^deadline
+serious	sentiment^urgent^serious
+moment	sentiment^urgent^moment
+before	sentiment^urgent^before
+earliest	sentiment^urgent^earliest
+early	sentiment^urgent^early
